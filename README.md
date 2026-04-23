@@ -35,10 +35,10 @@ Currently working at **Global Brands Group (GBG)** on cutting-edge LLM applicati
 
 ### AI/ML Frameworks & Libraries
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge\&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge\&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge\&logo=pytorch)
 ![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge\&logo=keras)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikit-learn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge\&logo=scikit-learn)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge\&logo=huggingface)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 
@@ -58,7 +58,7 @@ Currently working at **Global Brands Group (GBG)** on cutting-edge LLM applicati
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge\&logo=streamlit)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge\&logo=jupyter)
+![Jupyter](https://img.shields.io/badge/Jupyter-purple?style=for-the-badge\&logo=jupyter)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
 
 
@@ -91,7 +91,7 @@ Advanced RAG system that evaluates candidates using:
 
 ---
 
-### 🤖 [AI Procurement Agent System](https://github.com/EbraamNabil/AI-Procurement-Agent-System)
+### 🤖 [AI Procurement Agent System](https://github.com/EbraamNabil/ai-procurement-agent)
 
 Multi-agent pipeline that:
 
@@ -101,7 +101,7 @@ Multi-agent pipeline that:
 
 ---
 
-### 📊 [CV Intelligence RAG (Azure)](https://github.com/EbraamNabil/CV-Intelligence-RAG)
+### 📊 [CV Intelligence RAG (Azure)](https://github.com/EbraamNabil/rag-cv-search-system)
 
 End-to-end Azure-based RAG pipeline:
 
@@ -109,13 +109,13 @@ End-to-end Azure-based RAG pipeline:
 
 ---
 
-### 📄 [Document Intelligence App](https://github.com/EbraamNabil/Document-Intelligence-App)
+### 📄 [Document Intelligence App](https://github.com/EbraamNabil/azure-document-intelligence-app)
 
 Full AI document processing pipeline using Azure SDK with real-world deployment mindset.
 
 ---
 
-### 🧪 [Reasoning vs Reliability (LLM Study)](https://github.com/EbraamNabil/reasoning-vs-reliability-llm)
+### 🧪 [Reasoning vs Reliability (LLM Study)](https://github.com/EbraamNabil/reasoning-vs-reliability-llm )
 
 Experimental system comparing:
 
