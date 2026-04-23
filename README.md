@@ -1,6 +1,4 @@
-# # Hi there, I'm Ebraam Nabil 
-👋![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Turning+AI+ideas+into+scalable+real-world+systems)
-
+## Hi there, I'm Ebraam Nabil 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ebraam-nabil/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/EbraamNabil)
@@ -193,7 +191,8 @@ Experimental system comparing:
 * 📱 Phone: +201099560476
 
   ---
-💡 Turning AI ideas into scalable real-world systems
+💡 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&center=true&vCenter=true&width=600&lines=Turning+AI+ideas+into+scalable+real-world+systems)
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=EbraamNabil\&color=blue\&style=flat)
 
