@@ -26,17 +26,17 @@ Currently working at **Global Brands Group (GBG)** on cutting-edge LLM applicati
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge\&logo=python)
 ![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge\&logo=csharp)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge\&logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-purple?style=for-the-badge\&logo=mysql)
 
 ---
 
 ### AI/ML Frameworks & Libraries
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-blue?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge\&logo=pytorch)
+![PyTorch](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge\&logo=pytorch)
 ![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge\&logo=keras)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge\&logo=scikit-learn)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge\&logo=huggingface)
@@ -55,7 +55,7 @@ Currently working at **Global Brands Group (GBG)** on cutting-edge LLM applicati
 
 ### Tools & Platforms
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-purple?style=for-the-badge\&logo=docker)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge\&logo=streamlit)
 ![Jupyter](https://img.shields.io/badge/Jupyter-purple?style=for-the-badge\&logo=jupyter)
