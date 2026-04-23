@@ -75,13 +75,13 @@ Currently working at **Global Brands Group (GBG)** on cutting-edge LLM applicati
 
 ## 🔥 Featured Projects
 
-### 🧠 AI Startup Decision System
+### 🧠 [AI Startup Decision System](https://github.com/EbraamNabil/AI-Startup-Decision-System)
 
 Multi-agent system that evaluates startup ideas and produces **GO / NO-GO decisions** using iterative reasoning and critique loops.
 
 ---
 
-### 📄 CV RAG Hiring Assistant
+### 📄 [CV RAG Hiring Assistant](https://github.com/EbraamNabil/CV-RAG-Hiring-Assistant)
 
 Advanced RAG system that evaluates candidates using:
 
@@ -91,7 +91,7 @@ Advanced RAG system that evaluates candidates using:
 
 ---
 
-### 🤖 AI Procurement Agent System
+### 🤖 [AI Procurement Agent System](https://github.com/EbraamNabil/AI-Procurement-Agent-System)
 
 Multi-agent pipeline that:
 
@@ -101,7 +101,7 @@ Multi-agent pipeline that:
 
 ---
 
-### 📊 CV Intelligence RAG (Azure)
+### 📊 [CV Intelligence RAG (Azure)](https://github.com/EbraamNabil/CV-Intelligence-RAG)
 
 End-to-end Azure-based RAG pipeline:
 
@@ -109,13 +109,13 @@ End-to-end Azure-based RAG pipeline:
 
 ---
 
-### 📄 Document Intelligence App
+### 📄 [Document Intelligence App](https://github.com/EbraamNabil/Document-Intelligence-App)
 
 Full AI document processing pipeline using Azure SDK with real-world deployment mindset.
 
 ---
 
-### 🧪 Reasoning vs Reliability (LLM Study)
+### 🧪 [Reasoning vs Reliability (LLM Study)](https://github.com/EbraamNabil/reasoning-vs-reliability-llm)
 
 Experimental system comparing:
 
