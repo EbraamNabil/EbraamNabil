@@ -75,9 +75,23 @@ Currently working at **Global Brands Group (GBG)** on cutting-edge LLM applicati
 
 ## 🔥 Featured Projects
 
-### 🧠 [AI Startup Decision System](https://github.com/EbraamNabil/AI-Startup-Decision-System)
 
-Multi-agent system that evaluates startup ideas and produces **GO / NO-GO decisions** using iterative reasoning and critique loops.
+### ⚖️ [WorkLaw Copilot](https://github.com/EbraamNabil/WorkLaw_Copilot_Project.git)
+
+Production-ready Arabic Legal AI Assistant powered by GraphRAG, Neo4j, and Azure OpenAI.
+
+* Hybrid Retrieval (Semantic Search + Graph Traversal + Explicit Legal Routing)
+* Explainable Legal Reasoning with Source-Traceable Responses and Interactive Knowledge Graphs
+  
+---
+
+### 🤖 [AI Procurement Agent System](https://github.com/EbraamNabil/ai-procurement-agent)
+
+Multi-agent pipeline that:
+
+* Searches products
+* Scrapes data
+* Generates structured procurement reports
 
 ---
 
@@ -91,20 +105,9 @@ Advanced RAG system that evaluates candidates using:
 
 ---
 
-### ⚖️ [WorkLaw Copilot](https://github.com/EbraamNabil/WorkLaw_Copilot_Project.git)
+### 🧠 [AI Startup Decision System](https://github.com/EbraamNabil/AI-Startup-Decision-System)
 
-Production-ready Arabic Legal AI Assistant powered by GraphRAG, Neo4j, and Azure OpenAI.
-
-• Hybrid Retrieval (Semantic Search + Graph Traversal + Explicit Legal Routing)
-• Explainable Legal Reasoning with Source-Traceable Responses and Interactive Knowledge Graphs
----
-### 🤖 [AI Procurement Agent System](https://github.com/EbraamNabil/ai-procurement-agent)
-
-Multi-agent pipeline that:
-
-* Searches products
-* Scrapes data
-* Generates structured procurement reports
+Multi-agent system that evaluates startup ideas and produces **GO / NO-GO decisions** using iterative reasoning and critique loops.
 
 ---
 
