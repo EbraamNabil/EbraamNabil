@@ -91,6 +91,13 @@ Advanced RAG system that evaluates candidates using:
 
 ---
 
+### ⚖️ [WorkLaw Copilot](https://github.com/EbraamNabil/WorkLaw_Copilot_Project.git)
+
+Production-ready Arabic Legal AI Assistant powered by GraphRAG, Neo4j, and Azure OpenAI.
+
+• Hybrid Retrieval (Semantic Search + Graph Traversal + Explicit Legal Routing)
+• Explainable Legal Reasoning with Source-Traceable Responses and Interactive Knowledge Graphs
+---
 ### 🤖 [AI Procurement Agent System](https://github.com/EbraamNabil/ai-procurement-agent)
 
 Multi-agent pipeline that:
